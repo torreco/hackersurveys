@@ -1,4 +1,4 @@
-# hackersurveys
+# How much Colombian software developers really make?
 
 Colombia has many software developers, but [not a single major Colombian university teaches software engineering](http://blog.bunnyinc.com/colombia-doesnt-software-engineers-really-not-even-one/). After I wrote that somewhat controversial article, the directors of several engineering programs reached out to me. What I learned is that the issue has to do with demand: young people don’t want to study systems engineering, software engineering, or computer science. Why? Because they think it doesn’t pay well. Unfortunately, existing salary surveys exclude freelancers and only take into account the salaries of software developers that work in Colombia for Colombian companies.
 
