@@ -13,4 +13,4 @@ First of all, some disclaimers:
 - Unfortunately, we asked for ranges of monthly incomes, instead of exact numbers. As such, finding median monthly incomes is almost impossible. We’ll have to settle for averages. Shame on me! We’ll fix the issue next time.
 - We removed obvious duplicates (same email address) from the results.
 
-[Here are the results of the survey as of January 21st, 2015](https://github.com/bunnyinc/hackersurveys/blob/master/salary_survey_colombians_2015.csv). Feel free to copy the spreadsheet, analyze it, and share your conclusions. If you want to be notified about this survey next year, please email me at alex@bunnyinc.com.
+[Here are the results of the survey as of January 21st, 2015](https://github.com/bunnyinc/hackersurveys/blob/master/salary_survey_colombians_2015.csv). Feel free to copy the spreadsheet, analyze it, and share your conclusions. If you want to be notified about this survey next year, [subscribe here](http://bunnyinc.us4.list-manage1.com/subscribe?u=9290015c3adcd3f0a4ec04e12&id=ec4096b988).
